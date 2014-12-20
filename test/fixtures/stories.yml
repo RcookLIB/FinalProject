@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  text: MyText
+  location_id: 
+  era_id: 
+  duration: MyText
+
+two:
+  text: MyText
+  location_id: 
+  era_id: 
+  duration: MyText
